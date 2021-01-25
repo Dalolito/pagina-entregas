@@ -1,0 +1,226 @@
+
+.oculto{
+	display: none;
+}
+.visible{
+			display: block;
+
+}
+.fondo{
+		
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0%;
+	left: 0%;
+}
+.titulo{
+		position: absolute;
+	width: 80%;
+	height: 20%;
+	top: 15%;
+	left: 20%;
+	color: #fff;
+
+	text-shadow:
+		0 0 5px rgba(165, 105, 189),
+		0 0 10px rgba(165, 105, 189),
+		0 0 20px rgba(165, 105, 189),
+		0 0 40px rgba(125, 60, 152),
+		0 0 80px rgba(125, 60, 152),
+		0 0 90px rgba(125, 60, 152),
+		0 0 100px rgba(74, 35, 90),
+		0 0 140px rgba(74, 35, 90),
+		0 0 180px rgba(74, 35, 90);
+}
+.flecha{
+		position: absolute;
+	width: 27%;
+	height: 18%;
+	top: 25%;
+	left: 25%;
+		transition: .5s;
+}
+.flecha:hover{
+		position: absolute;
+	width: 35%;
+	height: 23%;
+	top: 25%;
+	left: 24%;
+		transition: .5s;
+}
+.foto{
+			position: absolute;
+	width: 9%;
+	height: 26%;
+	top: 25%;
+	left: 55%;
+
+}
+.nombre{
+		position: absolute;
+	width: 30%;
+	height: 20%;
+	top: 30%;
+	left: 65%;
+	color: #fff;
+
+	text-shadow:
+		0 0 5px rgba(165, 105, 189),
+		0 0 10px rgba(165, 105, 189),
+		0 0 20px rgba(165, 105, 189),
+		0 0 40px rgba(125, 60, 152),
+		0 0 80px rgba(125, 60, 152),
+		0 0 90px rgba(125, 60, 152),
+		0 0 100px rgba(74, 35, 90),
+		0 0 140px rgba(74, 35, 90),
+		0 0 180px rgba(74, 35, 90);
+}
+.nombre1{
+		position: absolute;
+	width: 30%;
+	height: 20%;
+	top: 38%;
+	left: 69%;
+	color: #fff;
+
+	text-shadow:
+		0 0 5px rgba(165, 105, 189),
+		0 0 10px rgba(165, 105, 189),
+		0 0 20px rgba(165, 105, 189),
+		0 0 40px rgba(125, 60, 152),
+		0 0 80px rgba(125, 60, 152),
+		0 0 90px rgba(125, 60, 152),
+		0 0 100px rgba(74, 35, 90),
+		0 0 140px rgba(74, 35, 90),
+		0 0 180px rgba(74, 35, 90);
+}
+.boton{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 60%;
+	left: 12%;
+	transition: .5s;
+}
+.boton2{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 60%;
+	left: 32%;
+	transition: .5s;
+}
+.boton3{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 60%;
+	left: 52%;
+	transition: .5s;
+}
+.boton4{
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 60%;
+	left: 72%;
+	transition: .5s;
+}
+.boton:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 60%;
+	left: 12%;
+			transition: .5s;
+}
+.boton2:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 60%;
+	left: 32%;
+			transition: .5s;
+}
+.boton3:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 60%;
+	left: 52%;
+			transition: .5s;
+}
+.boton4:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 60%;
+	left: 72%;
+			transition: .5s;
+}
+.periodo1{
+		position: absolute;
+	top: 67%;
+	left: 15%;
+	color: #fff;
+
+
+}
+.periodo2{
+		position: absolute;
+	top: 67%;
+	left: 35%;
+	color: #fff;
+
+}
+.periodo3{
+		position: absolute;
+	top: 67%;
+	left: 55%;
+	color: #fff;
+
+
+}
+.periodo4{
+		position: absolute;
+	top: 67%;
+	left: 75%;
+	color: #fff;
+
+}
+
+.proximamente{
+		position: absolute;
+
+	top: 43%;
+	left: 35%;
+	color: #fff;
+
+	text-shadow:
+		0 0 5px rgba(165, 105, 189),
+		0 0 10px rgba(165, 105, 189),
+		0 0 20px rgba(165, 105, 189),
+		0 0 40px rgba(125, 60, 152),
+		0 0 80px rgba(125, 60, 152),
+		0 0 90px rgba(125, 60, 152),
+		0 0 100px rgba(74, 35, 90),
+		0 0 140px rgba(74, 35, 90),
+		0 0 180px rgba(74, 35, 90);
+}
+.flecha2{
+		position: absolute;
+	width: 27%;
+	height: 18%;
+	top: 60%;
+	left: 5%;
+		transition: .5s;
+}
+.flecha2:hover{
+		position: absolute;
+	width: 35%;
+	height: 23%;
+	top: 60%;
+	left: 5%;
+		transition: .5s;
+}
