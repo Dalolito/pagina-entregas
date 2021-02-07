@@ -193,8 +193,8 @@
 .proximamente{
 		position: absolute;
 
-	top: 43%;
-	left: 35%;
+	top: 15%;
+	left: 45%;
 	color: #fff;
 
 	text-shadow:
@@ -207,6 +207,13 @@
 		0 0 100px rgba(74, 35, 90),
 		0 0 140px rgba(74, 35, 90),
 		0 0 180px rgba(74, 35, 90);
+}
+.entrega1{
+			position: absolute;
+	color: rgba(208, 211, 212 );
+	top: 30%;
+	left: 10%;
+
 }
 .flecha2{
 		position: absolute;
