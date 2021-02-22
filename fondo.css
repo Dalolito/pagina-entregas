@@ -222,11 +222,18 @@
 	left: 10%;
 
 }
+.entrega3{
+			position: absolute;
+	color: rgba(208, 211, 212 );
+	top: 55%;
+	left: 10%;
+
+}
 .flecha2{
 		position: absolute;
 	width: 27%;
 	height: 18%;
-	top: 60%;
+	top: 70%;
 	left: 5%;
 		transition: .5s;
 }
@@ -234,7 +241,7 @@
 		position: absolute;
 	width: 35%;
 	height: 23%;
-	top: 60%;
+	top: 70%;
 	left: 5%;
 		transition: .5s;
 }
