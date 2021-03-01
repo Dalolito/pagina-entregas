@@ -10,7 +10,7 @@
 		
 	position: absolute;
 	width: 100%;
-	height: 100%;
+	height: 120%;
 	top: 0%;
 	left: 0%;
 }
@@ -229,11 +229,19 @@
 	left: 10%;
 
 }
+.entrega4{
+			position: absolute;
+	color: rgba(208, 211, 212 );
+	top: 71%;
+	left: 10%;
+
+}
+
 .flecha2{
 		position: absolute;
 	width: 27%;
 	height: 18%;
-	top: 70%;
+	top: 90%;
 	left: 5%;
 		transition: .5s;
 }
@@ -241,7 +249,7 @@
 		position: absolute;
 	width: 35%;
 	height: 23%;
-	top: 70%;
+	top: 90%;
 	left: 5%;
 		transition: .5s;
 }
