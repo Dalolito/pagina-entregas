@@ -218,14 +218,22 @@
 .entrega2{
 			position: absolute;
 	color: rgba(208, 211, 212 );
-	top: 45%;
+	top: 40%;
 	left: 10%;
 
 }
 .entrega3{
 			position: absolute;
 	color: rgba(208, 211, 212 );
-	top: 55%;
+	top: 50%;
+	left: 10%;
+
+}
+
+.entrega5{
+			position: absolute;
+	color: rgba(208, 211, 212 );
+	top: 60%;
 	left: 10%;
 
 }
