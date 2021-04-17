@@ -254,3 +254,29 @@
 	left: 5%;
 		transition: .5s;
 }
+.botone1{
+
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 25%;
+	left: 42%;
+	transition: .5s;
+
+}
+.botone1:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 25%;
+	left: 42%;
+			transition: .5s;
+}
+.entrega1{
+		position: absolute;
+	top: 30%;
+	left: 43.3%;
+	color: #fff;
+
+
+}
