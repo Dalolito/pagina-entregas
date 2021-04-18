@@ -274,7 +274,33 @@
 }
 .entrega1{
 		position: absolute;
-	top: 30%;
+	top: 32.5%;
+	left: 43.3%;
+	color: #fff;
+
+
+}
+.botone2{
+
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 40%;
+	left: 42%;
+	transition: .5s;
+
+}
+.botone2:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 40%;
+	left: 42%;
+			transition: .5s;
+}
+.entrega2{
+		position: absolute;
+	top: 47.5%;
 	left: 43.3%;
 	color: #fff;
 
