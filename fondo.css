@@ -7,12 +7,12 @@
 
 }
 .fondo{
-		
 	position: absolute;
 	width: 100%;
-	height: 120%;
+	height: 100%;
 	top: 0%;
 	left: 0%;
+
 }
 .titulo{
 		position: absolute;
@@ -242,7 +242,7 @@
 		position: absolute;
 	width: 27%;
 	height: 18%;
-	top: 90%;
+	top: 70%;
 	left: 5%;
 		transition: .5s;
 }
@@ -250,7 +250,7 @@
 		position: absolute;
 	width: 35%;
 	height: 23%;
-	top: 90%;
+	top: 70%;
 	left: 5%;
 		transition: .5s;
 }
@@ -301,6 +301,32 @@
 .entrega2{
 		position: absolute;
 	top: 47.5%;
+	left: 43.3%;
+	color: #fff;
+
+
+}
+.botone3{
+
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 55%;
+	left: 42%;
+	transition: .5s;
+
+}
+.botone3:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 55%;
+	left: 42%;
+			transition: .5s;
+}
+.entrega3{
+		position: absolute;
+	top: 62.5%;
 	left: 43.3%;
 	color: #fff;
 
