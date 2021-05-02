@@ -332,3 +332,29 @@
 
 
 }
+.botone4{
+
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	top: 70%;
+	left: 42%;
+	transition: .5s;
+
+}
+.botone4:hover{
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 70%;
+	left: 42%;
+			transition: .5s;
+}
+.entrega4{
+		position: absolute;
+	top: 77.5%;
+	left: 43.3%;
+	color: #fff;
+
+
+}
